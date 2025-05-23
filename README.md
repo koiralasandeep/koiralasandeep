@@ -1,6 +1,6 @@
 # Hi there, I’m Sandeep Koirala! 👋
 
-I’m a passionate and detail-oriented **Computer Information Systems** student at the **University of Louisiana Monroe (ULM)**, focused on optimizing business and technical processes through technology. My interests and skills span **data analytics, software development, cybersecurity, and DevSecOps**.
+I’m a passionate and detail-oriented **Computer Information Systems** student at the **University of Louisiana Monroe (ULM)**, focused on optimizing business and technical processes through technology. My interests and skills span **data analytics, Machine Learning, software development, cybersecurity, AI, and DevSecOps**.
 
 ---
 
