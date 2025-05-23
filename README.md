@@ -1,6 +1,6 @@
 # Hi there, I’m Sandeep Koirala! 👋
 
-I’m a passionate and detail-oriented **Computer Information Systems** student at the **University of Louisiana Monroe (ULM)**, working toward optimizing business and technical processes through technology. I focus on areas like **data analytics, software development, cybersecurity, and DevSecOps**.
+I’m a passionate and detail-oriented **Computer Information Systems** student at the **University of Louisiana Monroe (ULM)**, focused on optimizing business and technical processes through technology. My interests and skills span **data analytics, software development, cybersecurity, and DevSecOps**.
 
 ---
 
@@ -34,17 +34,26 @@ Leadership, Communication, Flexibility, Problem Solving
 
 ## 🎯 Projects
 
+**SoulScript – Spiritual AI Web App** ✅  
+- A full-stack Flask application that delivers spiritually intelligent responses based on user queries  
+- Integrates scriptures from the **Bhagavad Gita**, **Bible**, and **Quran**  
+- Features include:  
+  - Verse of the Day on login  
+  - Custom verse search by chapter and verse  
+  - AI-powered chat support trained to respond with religious context  
+- Tech stack: Flask, OpenAI API, Pandas, custom CSV datasets, HTML/CSS  
+
 **Inventory Management Software**  
-- Developed Python-based inventory management software with SQL database  
-- Enabled product tracking, stock updates, and deletion of products  
+- Developed Python-based inventory system using SQL for database operations  
+- Enabled stock tracking, product updates, and deletions with a user-friendly interface  
 
 **Employee Database Management System**  
-- Created Python + SQL application to manage employee records with full CRUD functionalities  
+- Built a Python + SQL solution with full CRUD functionality for managing employee records  
 
 **Customer Segmentation Analysis**  
 - Cleaned and prepared datasets using pandas  
-- Applied K-means clustering to identify customer segments for targeted marketing  
-- Visualized results using Matplotlib
+- Applied K-means clustering to identify marketable customer segments  
+- Visualized clusters using Matplotlib for business insights  
 
 ---
 
@@ -52,18 +61,19 @@ Leadership, Communication, Flexibility, Problem Solving
 
 - **Cisco CyberOps Associate**  
 - **DevSecOps Essentials**  
-- EC-Council Ethical Hacking (Dec 2024)  
-- IBM Data Analyst Professional Certificate (June 2024)  
-- Introduction to Microsoft Excel (May 2024)
+- **EC-Council Ethical Hacking** *(Expected Dec 2024)*  
+- **IBM Data Analyst Professional Certificate** *(Expected June 2024)*  
+- **Introduction to Microsoft Excel** *(May 2024)*
 
 ---
 
 ## 💡 Interests
-- Machine Learning
+
+- Machine Learning  
 - Data Science & Analytics  
 - Cybersecurity & DevSecOps  
 - Full-Stack Web Development  
-- AI-powered Business Solutions
+- AI-powered Business Solutions  
 
 ---
 
