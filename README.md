@@ -10,7 +10,7 @@ I’m a passionate and detail-oriented **Computer Information Systems** student 
 Python, SQL, HTML, CSS, JavaScript  
 
 **Frameworks & Libraries**  
-Flask, Scikit-learn, Pandas, NumPy, Matplotlib, Beautiful Soup  
+Flask, Scikit-learn, Pandas, NumPy, Matplotlib, Beautiful Soup, Streamlit
 
 **Databases & Tools**  
 MySQL, SQLite, Power BI, Tableau, Excel  
